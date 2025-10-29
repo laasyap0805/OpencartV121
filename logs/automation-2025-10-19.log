@@ -1,0 +1,46 @@
+20:01:48.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Account successfully created.
+20:01:48.400 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:05:15.607 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\src\test\resources\CrossBrowserTesting.xml"
+20:05:15.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\src\test\resources\CrossBrowserTesting.xml
+
+20:05:15.917 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Setting up test on OS: Windows using Browser: chrome
+20:05:15.917 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Setting up test on OS: Windows using Browser: firefox
+20:05:15.917 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Setting up test on OS: Windows using Browser: edge
+20:05:19.845 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to registration page successfully
+20:05:19.873 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+20:05:20.386 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:05:21.113 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:05:21.121 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:05:24.483 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Navigated to registration page successfully
+20:05:24.489 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+20:05:24.936 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:05:25.798 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Navigated to registration page successfully
+20:05:25.812 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+20:05:26.099 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:05:26.544 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:05:26.546 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:05:26.977 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:05:26.983 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:05:35.216 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - No popup appeared.
+20:05:35.326 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message displayed: Your Account Has Been Created!
+20:05:35.326 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Account successfully created.
+20:05:35.326 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:05:40.119 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - No popup appeared.
+20:05:40.157 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message displayed: Your Account Has Been Created!
+20:05:40.157 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Account successfully created.
+20:05:40.158 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:05:40.750 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - No popup appeared.
+20:05:41.219 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message displayed: Your Account Has Been Created!
+20:05:41.219 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Account successfully created.
+20:05:41.219 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:42:44.356 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\master.xml"
+20:42:44.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\master.xml
+
+20:42:44.646 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up test on OS: Windows using Browser: chrome
+20:42:49.150 [main] INFO  testCases.TC001_AccountRegistrationTest - Navigated to registration page successfully
+20:42:49.177 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+20:42:49.308 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:42:49.972 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:42:49.975 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...

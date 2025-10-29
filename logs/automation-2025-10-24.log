@@ -1,0 +1,53 @@
+23:36:50.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:36:50.384 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:36:50.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:36:50.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:36:50.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:36:50.386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:36:50.389 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:36:50.390 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+23:36:50.391 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:36:50.392 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:36:50.392 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:36:50.392 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:36:50.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nitheesh Kumar\AppData\Local\Temp\testng-eclipse-1508477640\testng-customsuite.xml
+
+23:36:50.425 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+23:36:50.598 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@191ae03f: 60 ms
+23:36:50.616 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2cf23c81: 18 ms
+23:36:50.627 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@65e61854: 11 ms
+23:36:50.636 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f23a3a0: 9 ms
+23:36:50.645 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@32cb636e: 9 ms
+23:36:50.645 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@63cd604c: 0 ms
+00:25:28.765 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml"
+00:25:29.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml
+
+00:25:29.077 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up test on OS: Windows using Browser: chrome
+00:25:33.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Navigated to registration page successfully
+00:25:33.695 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+00:25:33.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+00:25:34.548 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+00:25:34.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:25:46.225 [main] INFO  testCases.TC001_AccountRegistrationTest - No popup appeared.
+00:25:46.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message displayed: Your Account Has Been Created!
+00:25:46.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Account successfully created.
+00:25:46.304 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+00:25:46.551 [main] INFO  testCases.TC002_LoginTest - Setting up test on OS: Windows using Browser: chrome
+00:25:49.683 [main] INFO  testCases.TC002_LoginTest - Navigated to registration page successfully
+00:25:49.686 [main] INFO  testCases.TC002_LoginTest - ** Startign TC_002_LoginTest ***
+00:25:51.587 [main] INFO  testCases.TC002_LoginTest - *Finished TC_002_LoginTest***
+00:27:45.021 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml"
+00:27:45.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml
+
+00:28:13.374 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml"
+00:28:13.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml
+
+00:29:44.386 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml"
+00:29:44.605 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\grouping.xml
+
+00:29:44.662 [main] INFO  testCases.TC002_LoginTest - Setting up test on OS: Windows using Browser: chrome

@@ -1,0 +1,22 @@
+22:49:02.920 [main] INFO  testCases.TC002_LoginTest - Setting up test on OS: Windows using Browser: chrome
+22:49:06.659 [main] INFO  testCases.TC002_LoginTest - Navigated to application successfully
+22:49:06.661 [main] INFO  testCases.TC002_LoginTest - ** Startign TC_002_LoginTest ***
+22:49:08.626 [main] INFO  testCases.TC002_LoginTest - *Finished TC_002_LoginTest***
+22:49:08.836 [main] INFO  testCases.TC002_LoginTest - Browser closed successfully.
+23:43:27.985 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nitheesh Kumar\eclipse-workspace\OpencartV121\master.xml"
+23:43:28.454 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up test on OS: Windows using Browser: chrome
+23:43:32.651 [main] INFO  testCases.TC001_AccountRegistrationTest - Navigated to application successfully
+23:43:32.670 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+23:43:32.823 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:43:33.598 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:43:33.606 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+23:43:45.599 [main] INFO  testCases.TC001_AccountRegistrationTest - No popup appeared.
+23:43:45.712 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message displayed: Your Account Has Been Created!
+23:43:45.712 [main] INFO  testCases.TC001_AccountRegistrationTest - Account successfully created.
+23:43:45.712 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+23:43:45.978 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed successfully.
+23:43:45.978 [main] INFO  testCases.TC002_LoginTest - Setting up test on OS: Windows using Browser: chrome
+23:43:49.546 [main] INFO  testCases.TC002_LoginTest - Navigated to application successfully
+23:43:49.546 [main] INFO  testCases.TC002_LoginTest - ** Startign TC_002_LoginTest ***
+23:43:51.675 [main] INFO  testCases.TC002_LoginTest - *Finished TC_002_LoginTest***
+23:43:51.874 [main] INFO  testCases.TC002_LoginTest - Browser closed successfully.
